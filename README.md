@@ -5,3 +5,4 @@ Para verificar el funcionamiento del codigo desde la consola debe ingresar las s
 - npm init -y
 - npm run transpilar
 - npm run start
+.
